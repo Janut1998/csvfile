@@ -1,0 +1,7 @@
+pytest-cov
+pytest
+pycodestyle
+pytest-pylint
+wheel
+pandas
+watchdog
